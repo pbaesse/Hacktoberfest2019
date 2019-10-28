@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Pedro Baesse
+- Photo: https://avatars0.githubusercontent.com/u/4050950?s=460&v=4
+- Location: Natal, Brasil
+- Bio: 📱 IT Teacher . 💻 Free Software and Culture Contributor. Mozillian. Longboard skater! 🔥
+- Github: https://github.com/MorkWood2
